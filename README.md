@@ -1,4 +1,3 @@
 Mike Johnstone
 ==========
-
-More to come
+Please see my professional github @ https://github.com/mjohnstoneStandard
